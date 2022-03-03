@@ -1,0 +1,28 @@
+
+[Executed at: Mon Jan 24 11:23:21 PST 2022]
+
+SUCCESS!
+RESULT: compiles [ 1 / 1 ]
+RUNNING input
+Welcome to CS 280.
+What is your first and last names?
+Hello, Smith Fritz
+RESULT: input [  1  / 1 ]
+
+SUMMARY:
+RESULT: compiles [ 1 / 1 ]
+RESULT: input [  1  / 1 ]
+TOTAL SCORE 2 out of 2
+
+SUCCESS!
+RESULT: compiles [ 1 / 1 ]
+RUNNING input
+Welcome to CS 280.
+What is your first and last names?
+Hello, Smith Fritz
+RESULT: input [  1  / 1 ]
+
+SUMMARY:
+RESULT: compiles [ 1 / 1 ]
+RESULT: input [  1  / 1 ]
+TOTAL SCORE 2 out of 2
